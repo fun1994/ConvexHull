@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(124,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(228,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(246,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(255,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(274,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(293,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(430,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(438,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(498,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(506,1): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(733,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(749,1): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\main.cpp(86,37): warning C4244: “*=”: 从“double”转换到“__int64”，可能丢失数据
+C:\Users\acer\source\repos\ConvexHull\ConvexHull\ConvexHull.h(28): warning C4715: “ConvexHull::inTriangle”: 不是所有的控件路径都返回值
+  ConvexHull.vcxproj -> C:\Users\acer\source\repos\ConvexHull\x64\Debug\ConvexHull.exe
